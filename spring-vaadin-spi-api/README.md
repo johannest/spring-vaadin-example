@@ -1,0 +1,1 @@
+Shared API project for Spring with Vaadin and SPI pattern project: https://github.com/johannest/spring-vaadin-example
